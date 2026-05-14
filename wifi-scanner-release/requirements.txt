@@ -1,5 +1,0 @@
-scapy
-mac-vendor-lookup
-requests
-pyinstaller
-netifaces
